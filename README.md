@@ -54,7 +54,7 @@ client = openai.OpenAI(api_key='your_real_key_here')
 ## ▶ How To Run
 
 ```bash
-python your_script_name.py
+python ImageGenerator.py
 ```
 
 ---
