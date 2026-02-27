@@ -106,9 +106,13 @@ request_3.jpg
 - Image generation may take several seconds per image.
 - Make sure your API key is valid and has available credits.
 - Ensure the `outputs/` directory exists or is created automatically.
+- The font is called "Monocraft" for the title.
 
 ---
 
 ## 📜 License
 
 This project is for educational and experimental purposes.
+
+<img width="630" height="1030" alt="image" src="https://github.com/user-attachments/assets/de320940-80ea-4730-9e04-c7a89ddd03d2" />
+
