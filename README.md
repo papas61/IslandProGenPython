@@ -38,7 +38,7 @@ You also need:
 Open your Python file and replace:
 
 ```python
-client = openai.OpenAI(api_key='api_key')
+client = openai.OpenAI(api_key='sk-proj-')
 ```
 
 with:
